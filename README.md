@@ -1,3 +1,7 @@
+Вот перевод текста на английский:
+
+---
+
 <br clear="both">
 
 <div align="center">
@@ -6,7 +10,7 @@
 
 ###
 
-<h1 align="center">Привет 👋 Меня зовут Никита!</h1>
+<h1 align="center">Hello 👋 My name is Nikita!</h1>
 
 ###
 
@@ -27,58 +31,55 @@
 
 ###
 
-<h3 align="left">👨‍💻 Обо мне</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
 <p align="left">
-  Я Java-разработчик с опытом создания надежных и масштабируемых приложений. Моей ключевой специализацией является разработка бэкенд-систем с использованием современных фреймворков и инструментов. Мне нравится разрабатывать эффективные и поддерживаемые архитектурные решения, которые решают бизнес-задачи и облегчают дальнейшее развитие проектов
+  I am a Java developer with experience in building reliable and scalable applications. My key specialization lies in developing backend systems using modern frameworks and tools. I enjoy designing efficient and maintainable architectural solutions that solve business challenges and facilitate the future growth of projects.
 <br><br>
-- 📚 Углубляюсь в изучение Kubernetes, высоконагруженных систем, асинхронной обработки данных и распределённых приложений.  Изучаю новые подходы к программированию, включая архитектурные паттерны и оптимизацию производительности
+- 📚 Currently exploring Kubernetes, high-load systems, asynchronous data processing, and distributed applications. I am also diving into new programming approaches, including architectural patterns and performance optimization.
 </p>
 
 ###
 
-<h3 align="left">📕 Мои проекты</h3>
+<h3 align="left">📕 My Projects</h3>
 
-- **Автоматизация UI для e-commerce**  
-Автоматизировал ключевые тесты пользовательских сценариев.
+Over the past two years, I have actively worked with core Java technologies, including Spring Framework (Spring Boot, Spring Data, Spring Security), Hibernate for ORM, and JDBC for database interaction. I have experience in designing and developing RESTful APIs using Spring MVC, as well as writing unit and integration tests with JUnit and TestNG. Additionally, I have worked with Maven and Gradle for project building and dependency management. I am proficient in multithreading, concurrency, and using Java Streams for data processing. My projects have also involved Apache Kafka for building event-driven architectures and Docker for containerizing Java applications before deployment.
+
+- **UI Automation for e-commerce**  
+Automated key user scenario tests.
 
 - **API Automation Framework**  
-  Создал тестовый фреймворк для проверки REST API. Используемые инструменты: RestAssured, Allure.  
-  - Интеграция с Postman и Swagger для документирования.
+  Created a test framework for REST API validation using RestAssured and Allure.  
+  - Integrated with Postman and Swagger for documentation.
 
+<h3 align="left"> 🚀 Pet Projects</h3>
 
-<h3 align="left"> 🚀 Пет-проекты</h3>
-
-- **10 Telegram ботов для автоматизации взаимодействий**  
-  Разработал серию телеграм-ботов с использованием **Python** и **Telegram Bot API**:  
-  - Диалоговые состояния через **ConversationHandler**.  
-  - Интерактивные кнопки с использованием **InlineKeyboard**. 
-  - Обработка пользовательских данных и **уведомления администратору**.  
-  - Логирование действий пользователей для анализа и мониторинга.  
-  - Уведомления администраторам через интеграцию с Telegram.  
-  - Реализация сценариев для записи на приём и обратной связи. 
-
-
-
+- **10 Telegram Bots for Interaction Automation**  
+  Developed a series of Telegram bots using **Python** and **Telegram Bot API**:  
+  - Dialog states with **ConversationHandler**.  
+  - Interactive buttons using **InlineKeyboard**.  
+  - User data processing and **admin notifications**.  
+  - User action logging for analytics and monitoring.  
+  - Notifications for administrators via Telegram integration.  
+  - Implemented scenarios for booking and feedback collection.
 
 - **Telegram Mini App (TMA)**  
-  Совместный проект для создания **мини-приложения** с интеграцией **Telegram WebApp API**.  
-  - **Реализовано**:  
-    - Базовая структура проекта: **React** (Frontend), **Node.js** (Backend), **MongoDB** (БД).  
-    - Контейнеризация с **Docker** (настроенные порты и volumes).  
-    - Минимальный фронтенд с базовыми стилями и структурой.  
- - **Планы**:  
-    - Создание **API endpoints** для взаимодействия клиента и сервера.  
-    - Разработка компонентов UI и интеграция с **Telegram WebApp API**.  
-    - Настройка **безопасности** и **авторизации**.  
-    - Внедрение **CI/CD** для автоматической сборки и деплоя.  
-
+  A collaborative project to create a **mini-application** integrated with **Telegram WebApp API**.  
+  - **Implemented**:  
+    - Project structure: **React** (Frontend), **Node.js** (Backend), **MongoDB** (Database).  
+    - Containerization with **Docker** (configured ports and volumes).  
+    - Basic frontend with initial styling and structure.  
+ - **Plans**:  
+    - Create **API endpoints** for client-server interaction.  
+    - Develop UI components and integrate with **Telegram WebApp API**.  
+    - Set up **security** and **authorization**.  
+    - Implement **CI/CD** for automatic build and deployment.
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 ###
 
@@ -102,7 +103,7 @@
 
 ###
 
-<h3 align="left">🔥 Моя статистика:</h3>
+<h3 align="left">🔥 My Stats:</h3>
 
 ###
 
